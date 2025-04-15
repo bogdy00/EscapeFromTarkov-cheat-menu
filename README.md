@@ -1,6 +1,6 @@
 # 🎯 Escape From Tarkov Cheat Menu
 
-![Escape From Tarkov Cheat](https://postimg.cc/87YWQqXZ)
+[![222186879-a88a267e-16ba-4532-85ec-8cb385737947.png](https://i.postimg.cc/HLYt5mw1/222186879-a88a267e-16ba-4532-85ec-8cb385737947.png)](https://postimg.cc/87YWQqXZ)
 > ⚠️ For educational and research purposes only.
 
 A powerful and customizable cheat for Escape From Tarkov (EFT). This project includes features such as wallhack (ESP), aimbot, no recoil, and much more.
