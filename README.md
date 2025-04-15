@@ -11,6 +11,7 @@ A fully-featured internal cheat for Escape From Tarkov designed to give players 
 ## ✨ Key Features (Explained)
 
 ### 🔍 ESP (Wallhack)
+[![135587083-938a3d9b-2082-4231-9fa8-e7807ad4a3d1.png](https://i.postimg.cc/Cxc0Tj4y/135587083-938a3d9b-2082-4231-9fa8-e7807ad4a3d1.png)](https://postimg.cc/FYk80kqG)
 See through walls like never before. Highlights:
 
 - ✅ Player ESP (names, distance, health bars, skeletons)
@@ -60,7 +61,7 @@ Enable in the “Movement” section. Speed multiplier can be adjusted on a slid
 ---
 
 ### 🧪 Experimental Features
-
+[![222189119-f25413a7-511b-43cf-b6d8-a57320347034.png](https://i.postimg.cc/fTwX8N2H/222189119-f25413a7-511b-43cf-b6d8-a57320347034.png)](https://postimg.cc/QVyHMRr5)
 > May not be stable in every version
 
 - 🔎 Loot Through Walls (auto-loot key items)
@@ -72,8 +73,6 @@ Enable in the “Movement” section. Speed multiplier can be adjusted on a slid
 🚀 Installation
 
     ⚠️ This build is intended for Windows 10/11 x64 systems.
-
-📥 Steps
 
 Download the archive from the following link:
 
@@ -98,8 +97,6 @@ The cheat will automatically inject when the main menu loads. Press Insert to op
 
 ## 🎛 Controls
 
-Below is a full list of default hotkeys for navigating and using the cheat in-game. All keys can be customized via the `config.json` file.
-
 | 🔑 Key              | 🕹️ Action Description                             |
 |---------------------|--------------------------------------------------|
 | `Insert`            | Open / close the in-game menu                   |
@@ -123,7 +120,6 @@ Below is a full list of default hotkeys for navigating and using the cheat in-ga
 
 ---
 
-Хочешь, я добавлю ещё блок с "Recommended Settings" или "Legit vs Rage" пресетами?
 ## 🔐 Safe Usage & Tips
 
 - Always test in **offline mode** first.
@@ -137,7 +133,6 @@ Below is a full list of default hotkeys for navigating and using the cheat in-ga
 
 This project is for **educational purposes only**.  
 We do **not** encourage or condone cheating in multiplayer games.  
-Using this code online **can get you banned**. You’ve been warned.
 
 ---
 
